@@ -1,10 +1,5 @@
 from fruit_tea import FruitTea
-from fruit_tea import FruitTea
 from bubble_tea import BubbleTea, FruitTea, Topping, Store
-
-# Your test cases...
-
-
 from topping import Topping
 
 def test_add_topping():
